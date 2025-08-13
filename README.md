@@ -19,7 +19,7 @@ I'm Jhad, Maybe I'm a developer.
 I create what I want, in ways that align with my faith and values.
 
 بسم الله  
-أنا جهاد، مبرمج تقريبا  
+تقدر تقول مبرمج تقريبا  
 أقوم بصناعة ما أريد بما يرضي ديني وقيمي.
 
 ---
