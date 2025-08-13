@@ -38,7 +38,7 @@ I create what I want, in ways that align with my faith and values.
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)  
-![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Termux_Icon.png" alt="Termux" width="24" height="24"/> Termux
 
 ---
 
