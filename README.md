@@ -57,4 +57,4 @@ I create what I want, in ways that align with my faith and values.
 
 ---
 
-👆 In the name of Allah, Start anything
+☝️ In the name of Allah, Start anything
