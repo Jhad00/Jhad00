@@ -44,9 +44,9 @@ I create what I want, in ways that align with my faith and values.
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Click-000?style=flat&logo=github)](https://github.com/Jhad00)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Click-25D366?style=flat&logo=whatsapp)](https://wa.me/963953391651)  
-[![Instagram](https://img.shields.io/badge/Instagram-Click-E4405F?style=flat&logo=instagram)](https://instagram.com/jhad_34)
+[![GitHub](https://img.shields.io/badge/GitHub--181717?style=flat&logo=github)](https://github.com/Jhad00)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp)](https://wa.me/963953391651)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/jhad_34)
 
 ---
 
