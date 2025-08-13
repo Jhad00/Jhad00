@@ -1,7 +1,7 @@
 <!-- Fancy Name Frame -->
 <h1 align="center">
   ╔══════════════════════╗<br>
-  ✨ jhad ✨<br>
+  🖤 jhad 🖤<br>
   ╚══════════════════════╝
 </h1>
 
@@ -13,14 +13,12 @@
 ---
 
 ## 🌿 About Me
-**English:**  
 In the name of Allah  
-I'm **Jhad**, a Muslim developer.  
+I'm **Jhad**, Maybe Im developer.  
 I create what I want, in ways that align with my faith and values.
 
-**العربية:**  
 بسم الله  
-أنا **جهاد**، مبرمج مسلم.  
+أنا **جهاد**، مبرمج تقريبا  
 أقوم بصناعة ما أريد بما يرضي ديني وقيمي.
 
 ---
