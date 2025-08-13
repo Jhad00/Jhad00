@@ -42,30 +42,11 @@ I create what I want, in ways that align with my faith and values.
 
 ---
 
-## ⚙️ Firmware & Embedded Systems
-
-- Developing efficient firmware using C and C++ with a focus on clean, maintainable code.  
-- Experience with **Real-Time Operating Systems (RTOS)** (أنظمة الوقت الحقيقي) مثل FreeRTOS، وهي أنظمة تشغيل مخصصة للأجهزة التي تحتاج استجابة سريعة ومستقرة (وليس لها علاقة ببروت أندرويد).  
-- Handling communication protocols such as I2C, SPI, UART for robust hardware interfacing.  
-- Building practical tools and scripts to optimize firmware development and testing.  
-- Commitment to security and stability in low-level programming.  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhad00&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhad00&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jhad00-black?style=flat&logo=github)](https://github.com/Jhad00)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B963953391651-green?style=flat&logo=whatsapp)](https://wa.me/963953391651)  
-[![Instagram](https://img.shields.io/badge/Instagram-@jhad_34-E4405F?style=flat&logo=instagram)](https://instagram.com/jhad_34)
+[![GitHub](https://img.shields.io/badge/GitHub-Click-000?style=flat&logo=github)](https://github.com/Jhad00)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Click-25D366?style=flat&logo=whatsapp)](https://wa.me/963953391651)  
+[![Instagram](https://img.shields.io/badge/Instagram-Click-E4405F?style=flat&logo=instagram)](https://instagram.com/jhad_34)
 
 ---
 
