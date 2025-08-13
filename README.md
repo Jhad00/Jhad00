@@ -31,14 +31,24 @@ I create what I want, in ways that align with my faith and values.
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)  
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)  
 
 ### Frameworks & Tools I Love:
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)  
 ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=terminal)  
+
+---
+
+## ⚙️ Firmware & Embedded Systems
+
+- Developing efficient firmware using C and C++ with a focus on clean, maintainable code.  
+- Experience with **Real-Time Operating Systems (RTOS)** (أنظمة الوقت الحقيقي) مثل FreeRTOS، وهي أنظمة تشغيل مخصصة للأجهزة التي تحتاج استجابة سريعة ومستقرة (وليس لها علاقة ببروت أندرويد).  
+- Handling communication protocols such as I2C, SPI, UART for robust hardware interfacing.  
+- Building practical tools and scripts to optimize firmware development and testing.  
+- Commitment to security and stability in low-level programming.  
 
 ---
 
@@ -53,8 +63,10 @@ I create what I want, in ways that align with my faith and values.
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Jhad00-black?style=flat&logo=github)](https://github.com/Jhad00)
+[![GitHub](https://img.shields.io/badge/GitHub-Jhad00-black?style=flat&logo=github)](https://github.com/Jhad00)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B963953391651-green?style=flat&logo=whatsapp)](https://wa.me/963953391651)  
+[![Instagram](https://img.shields.io/badge/Instagram-@jhad_34-E4405F?style=flat&logo=instagram)](https://instagram.com/jhad_34)
 
 ---
 
-☝️ In the name of Allah, Start anything
+👆 In the name of Allah, Start anything
