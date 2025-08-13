@@ -15,7 +15,7 @@
 ## 🌿 About Me
 
 In the name of Allah  
-I'm Jhad, Maybe Im developer.  
+I'm Jhad, Maybe I'm a developer.  
 I create what I want, in ways that align with my faith and values.
 
 بسم الله  
@@ -31,14 +31,14 @@ I create what I want, in ways that align with my faith and values.
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)  
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
 
 ### Frameworks & Tools I Love:
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Termux_Icon.png" alt="Termux" width="24" height="24"/> Termux
+![Termux](https://upload.wikimedia.org/wikipedia/commons/7/7f/Termux_Icon.png)
 
 ---
 
