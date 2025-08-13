@@ -1,13 +1,27 @@
-<!-- Banner -->
+<!-- Fancy Name Frame -->
+<h1 align="center">
+  ╔══════════════════════╗<br>
+  ✨ jhad ✨<br>
+  ╚══════════════════════╝
+</h1>
+
+<!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Peace+be+upon+you;I'm+jhad;Muslim+Developer;Building+cool+things+with+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Peace+be+upon+you;Bismillah%2C+I'm+Jhad;Creating+what+I+want+while+pleasing+my+Lord" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌿 About Me
-I'm **jhad**, a Muslim developer passionate about building clean, efficient, and creative solutions.  
-I believe in writing code that serves people and adds value to the world.
+**English:**  
+In the name of Allah  
+I'm **Jhad**, a Muslim developer.  
+I create what I want, in ways that align with my faith and values.
+
+**العربية:**  
+بسم الله  
+أنا **جهاد**، مبرمج مسلم.  
+أقوم بصناعة ما أريد بما يرضي ديني وقيمي.
 
 ---
 
