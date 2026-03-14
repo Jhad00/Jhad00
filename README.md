@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Jhad</h1>
 <p align="center">
-Developer • Builder • Open‑Source
+Developer • Builder
 </p>
 
 ---
